@@ -1,0 +1,16 @@
+{
+  "name": "monorepo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "./packages/a",
+    "./packages/b"
+  ]
+}
