@@ -1,7 +1,0 @@
-{
-    "baseUrl": "./packages",
-    "paths": {
-      "a": ["a/src"],
-      "b": ["b/src"]
-    }
-}
