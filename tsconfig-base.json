@@ -6,6 +6,10 @@
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
-    "strict": true
+    "strict": true,
+    "baseUrl": "./packages",
+    "paths": {
+      "a": ["a"]
+    }
   }
 }
