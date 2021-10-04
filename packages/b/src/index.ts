@@ -1,3 +1,3 @@
 import { add } from "a";
 
-console.log(add(1, 2))
+export const addAndMultiply = (a: number, b: number, c: number): number => add(a, b) * c

@@ -1,11 +1,7 @@
 {
-    "files": [],
-    "references": [
-        {
-            "path": "./packages/a"
-        },
-        {
-            "path": "./packages/b"
-        },
-    ]
+    "baseUrl": "./packages",
+    "paths": {
+      "a": ["a/src"],
+      "b": ["b/src"]
+    }
 }

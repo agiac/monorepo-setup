@@ -1,15 +1,10 @@
 {
   "compilerOptions": {
-    "composite": true,
     "target": "ESNext",
     "module": "commonjs",
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
-    "baseUrl": ".",
-    "paths": {
-      "a": ["packages/a/src"],
-      "b": ["packages/b/src"]
-    }
+    "strict": true
   },
 }
