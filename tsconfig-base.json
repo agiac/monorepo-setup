@@ -7,9 +7,6 @@
     "declarationMap": true,
     "sourceMap": true,
     "strict": true,
-    "baseUrl": "./packages",
-    "paths": {
-      "a": ["a"]
-    }
+    "baseUrl": "./packages"
   }
 }
